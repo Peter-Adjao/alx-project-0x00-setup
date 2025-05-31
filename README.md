@@ -1,3 +1,31 @@
+This is the initial setup phase of an Airbnb clone project built using:
+
+Next.js (with the Pages Router)
+
+TypeScript
+
+Tailwind CSS
+
+ESLint
+
+It is part of the ALX Pro Dev Frontend Development track under the Software Engineering Program.
+
+This project demonstrates modern frontend development practices, including:
+
+Setting up a scalable development environment
+
+Using reusable React components
+
+Implementing basic routing with the Next.js Pages Router
+
+Enforcing code quality with ESLint
+
+Styling using utility-first Tailwind CSS
+
+This setup lays the groundwork for building a dynamic and responsive web application inspired by Airbnb’s user interface.
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
