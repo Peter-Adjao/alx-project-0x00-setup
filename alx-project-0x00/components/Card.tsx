@@ -5,7 +5,7 @@ import Pill from "./Pill";
 
 const Card: React.FC = () => {
   return (
-    <div className="h-[422px] w-[378.56px] cursor-pointer hover:shadow-md hover:rounded-lg">
+    <div className="h-[300px] w-[378.56px] cursor-pointer hover:shadow-md hover:rounded-lg ml-4">
         <Image src="/assets/images/house.png" alt="House"
          width={100} height={100} />
 

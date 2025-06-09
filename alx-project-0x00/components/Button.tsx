@@ -1,6 +1,9 @@
 import React from "react";
-import { ButtonProps } from "@/interfaces";
 
+interface ButtonProps {
+  title: string;
+  styles?: string;
+}
 
 
 const Button: React.FC<ButtonProps> = ({ title, styles }) => {
